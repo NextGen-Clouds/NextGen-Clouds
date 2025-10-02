@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey there, I'm Javid 
 
-<!--
-**NextGen-Clouds/NextGen-Clouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building tools & cloud solutions for the next generation of servers.  ( NEXTGENCLOUD.IR )
+🎮 Gamer | 🎥 Video Editor | 💻 Startup Enthusiast | ☁️ Hosting Provider  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Current Projects
+- 🔥 [NextGen Server Optimizer](https://github.com/NextGen-Clouds/NextGen-Server-Optimizer)  
+- 🚧 More open-source tools coming soon...
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NextGen-Clouds&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌍 Connect with Me
+- 💬 Telegram: [@NwayZ](#)  
+- 📧 Email: NwayzRj@gmail.com  
+- 🔗 Website: [NextGenCloud.ir](#)
