@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">## ⚡ Current Projects<br>- 🔥 [NextGen Server Optimizer](https://github.com/NextGen-Clouds/NextGen-Server-Optimizer)  <br>- 🚧 More open-source tools coming soon..</p>
+<p align="left">## ⚡ Current Projects<br>- 🔥 NextGen Server Optimizer: https://github.com/NextGen-Clouds/NextGen-Server-Optimizer  <br>- 🚧 More open-source tools coming soon..</p>
 
 ###
 
